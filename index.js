@@ -19,5 +19,5 @@ app.get('/', (req, res) => {
 //     res.send(recipeDetails)
 // })
 app.listen(port, () => {
-    console.log(`chef-sever is run: ${port}`)
+    console.log(`chef-sever is runing: ${port}`)
 })
