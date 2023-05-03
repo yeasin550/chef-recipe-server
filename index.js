@@ -12,12 +12,12 @@ app.get('/', (req, res) => {
 app.get('/recipe', (req, res) => {
     res.send(recipe)
 })
-// app.get('/recipe/:id', (req, res) => {
-//     const id = parseInt(req.params.id);
-//     console.log(id)
-//     const recipeDetails = recipe.find((r) => parseInt(r.id) === id);
-//     res.send(recipeDetails)
-// })
+app.get('/recipe/:id', (req, res) => {
+    const id = parseInt(req.params.id);
+    console.log(id)
+    const recipeDetails = recipe.find((r) => parseInt(r.id) === id);
+    res.send(recipeDetails)
+})
 app.listen(port, () => {
     console.log(`chef-sever is runing: ${port}`)
 })
