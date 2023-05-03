@@ -9,9 +9,9 @@ const recipe = require('./recipe.json')
 app.get('/', (req, res) => {
     res.send('server site is runing')
 })
-// app.get('/recipe', (req, res) => {
-//     res.send(recipe)
-// })
+app.get('/recipe', (req, res) => {
+    res.send(recipe)
+})
 // app.get('/recipe/:id', (req, res) => {
 //     const id = parseInt(req.params.id);
 //     console.log(id)
