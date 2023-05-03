@@ -6,6 +6,7 @@ const port = 5000;
 app.use(cors())
 
 const recipe = require('./recipe.json')
+const myRecipe = require('./myRecipe.json')
 app.get('/', (req, res) => {
     res.send('server site is runing')
 })
@@ -17,6 +18,9 @@ app.get('/recipe/:id', (req, res) => {
     console.log(id)
     const recipeDetails = recipe.find((r) => parseInt(r.id) === id);
     res.send(recipeDetails)
+})
+app.get('/myRecipe', (req, res) => {
+    res.send(myRecipe);
 })
 app.listen(port, () => {
     console.log(`chef-sever is runing: ${port}`)
