@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "chefName": "Chef Alice",
+    "chefName": "Chef Kim",
     "experience": 8,
     "numRecipes": 76,
     "recipes": [
@@ -42,11 +42,11 @@
         ],
         "cookingMethod": "In a large bowl, beat heavy cream and sugar until stiff peaks form. In a separate bowl, combine espresso and Kahlua. Dip ladyfingers in espresso mixture and layer in a 9x13 inch dish. Spread mascarpone cheese over ladyfingers. Top with whipped cream. Chill for at least 2 hours before serving.",
         "ratings": 4.9,
-        "img": "https://i.ibb.co/6Xzgzzd/food2.png"
+        "img": "https://img.freepik.com/free-photo/lifestyle-food-pasta-yummy-gourmet_1350-50.jpg?w=740&t=st=1684328255~exp=1684328855~hmac=a0c74be8aa59bf787186013ec99f3bbdf35358bd2582c7cc2df5051068e2d1eb"
       }
     ],
     "likes": 132,
-    "chefPicture": "https://img.freepik.com/free-photo/smiling-young-male-cook-wearing-chef-uniform-glasses-isolated-white-wall_141793-78421.jpg?w=740&t=st=1683043042~exp=1683043642~hmac=a2c9aa727d7803016ef8144f744dd55cf8db109a3e014d2f9631d9f7ed8682cb",
+    "chefPicture": "https://img.freepik.com/free-photo/man-reading-magazine-during-dinner_23-2147793095.jpg?w=740&t=st=1684324848~exp=1684325448~hmac=1bcd845d9b219017387bc6bf870db0a2a80e07f0b22e1deb38557b85e5edd0e0",
     "description": "Chef Alice is a seasoned chef with experience working in some of the world's top kitchens. She specializes in creating innovative dishes that showcase the flavors of fresh, locally-sourced ingredients."
   },
   {
@@ -92,11 +92,11 @@
         ],
         "cookingMethod": "In a large bowl, beat heavy cream and sugar until stiff peaks form. In a separate bowl, combine espresso and Kahlua. Dip ladyfingers in espresso mixture and layer in a 9x13 inch dish. Spread mascarpone cheese over ladyfingers. Top with whipped cream. Chill for at least 2 hours before serving.",
         "ratings": 4.9,
-        "img": "https://i.ibb.co/6Xzgzzd/food2.png"
+        "img": "https://img.freepik.com/free-photo/lifestyle-food-pasta-yummy-gourmet_1350-50.jpg?w=740&t=st=1684328255~exp=1684328855~hmac=a0c74be8aa59bf787186013ec99f3bbdf35358bd2582c7cc2df5051068e2d1eb"
       }
     ],
     "likes": 224,
-    "chefPicture": "https://img.freepik.com/free-photo/studio-portrait-cook-man-with-fresh-vegetables-table_613910-10050.jpg?w=740&t=st=1683043171~exp=1683043771~hmac=1d48a4d763a0ecf1ff152fe5fc72f62379b55143e990b507b2ceb74dd17b026b",
+    "chefPicture": "https://img.freepik.com/free-photo/chef-cooking-fresh-vegetable-salad-his-kitchen_155003-3284.jpg?w=740&t=st=1684325175~exp=1684325775~hmac=8f27edf5e164187c4f7d4797d667440c44f7f3af443651e29be1f42e35974900",
     "description": "Chef Bob is a master of classic French cuisine, with a particular talent for creating rich, complex sauces. He has trained under some of the most renowned chefs in Europe and brings his wealth of experience to every dish he creates."
   },
   {
@@ -128,7 +128,7 @@
         ],
         "cookingMethod": "Preheat oven to 450°F. Spread tomato sauce over pizza crust. Top with mozzarella cheese and chopped basil. Bake for 10-12 minutes or until crust is golden brown.",
         "ratings": 4.7,
-        "img": "https://i.ibb.co/CBcdvjk/food1.png"
+        "img": "https://img.freepik.com/free-photo/lifestyle-food-pasta-yummy-gourmet_1350-50.jpg?w=740&t=st=1684328255~exp=1684328855~hmac=a0c74be8aa59bf787186013ec99f3bbdf35358bd2582c7cc2df5051068e2d1eb"
       },
       {
         "recipeName": "Tiramisu",
@@ -146,7 +146,7 @@
       }
     ],
     "likes": 56,
-    "chefPicture": "https://img.freepik.com/free-photo/shot-professional-old-chef-dressed-uniform-holding-kitchen-spatula-tongs_613910-17564.jpg?w=740&t=st=1683043270~exp=1683043870~hmac=d83f498d98aa987eafd6701564186e734b1b3fd878370fbd0747dcfe5fd4b900",
+    "chefPicture": "https://img.freepik.com/free-photo/front-view-confident-young-man-standing-table-various-pastries-it-holding-bank-card-white-kitchen_140725-97160.jpg?w=740&t=st=1684325218~exp=1684325818~hmac=9b9bd71d179bfc956c835dbe1f592f80097fa3cde54b714758c7c5b8255a65be",
     "description": "Chef Charlie is a rising star in the culinary world, known for her creative and playful approach to cooking. She draws inspiration from a variety of global cuisines and loves to experiment with bold flavors and unexpected ingredient combinations."
   },
   {
@@ -166,7 +166,7 @@
         ],
         "cookingMethod": "Cook pasta according to package instructions. While pasta is cooking, combine basil, Parmesan cheese, olive oil, and garlic in a food processor and blend until smooth. Drain pasta and toss with pesto sauce. Serve immediately.",
         "ratings": 4.5,
-        "img": "https://i.ibb.co/F5MmgSb/food3.png"
+        "img": "https://img.freepik.com/free-photo/lifestyle-food-pasta-yummy-gourmet_1350-50.jpg?w=740&t=st=1684328255~exp=1684328855~hmac=a0c74be8aa59bf787186013ec99f3bbdf35358bd2582c7cc2df5051068e2d1eb"
       },
       {
         "recipeName-2": "Margherita Pizza",
@@ -196,7 +196,7 @@
       }
     ],
     "likes": 182,
-    "chefPicture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=740&t=st=1683043342~exp=1683043942~hmac=c824406a1f2790fa7215a126ed0b9ed1c548064a9991b4ecee5c3b456eb0e2c4",
+    "chefPicture": "https://img.freepik.com/free-photo/17-lifestyle-people-ordering-sushi-home_52683-100626.jpg?w=740&t=st=1684325249~exp=1684325849~hmac=5a590c90f2de07f1221facc0c0e1d1c914c55e8632483dcbfb7ec3cc6776cef8",
     "description": "Chef David is a passionate advocate for sustainable, locally-sourced food. He works closely with farmers and producers to ensure that his ingredients are of the highest quality and has a particular talent for creating simple, elegant dishes that allow the flavors of the ingredients to shine."
   },
   {
@@ -216,7 +216,7 @@
         ],
         "cookingMethod": "Cook pasta according to package instructions. While pasta is cooking, combine basil, Parmesan cheese, olive oil, and garlic in a food processor and blend until smooth. Drain pasta and toss with pesto sauce. Serve immediately.",
         "ratings": 4.5,
-        "img": "https://i.ibb.co/F5MmgSb/food3.png"
+        "img": "https://img.freepik.com/free-photo/lifestyle-food-pasta-yummy-gourmet_1350-50.jpg?w=740&t=st=1684328255~exp=1684328855~hmac=a0c74be8aa59bf787186013ec99f3bbdf35358bd2582c7cc2df5051068e2d1eb"
       },
       {
         "recipeName": "Margherita Pizza",
@@ -246,7 +246,7 @@
       }
     ],
     "likes": 34,
-    "chefPicture": "https://images.unsplash.com/photo-1604551969716-5d6d8f77b241?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "chefPicture": "https://img.freepik.com/free-photo/portrait-bearded-man-apron-holding-wooden-board-fresh-fruits_144627-68568.jpg?w=740&t=st=1684325299~exp=1684325899~hmac=f080eb185c248788e12e7c03653340aa7414cceaaf6eb7752124caf1a872e086",
     "description": "Chef Emily is a young and ambitious chef who is constantly pushing the boundaries of traditional cooking. She loves to experiment with new techniques and ingredients, and is always on the lookout for innovative ways to showcase the flavors of her dishes."
   },
   {
@@ -265,7 +265,7 @@
         ],
         "cookingMethod": "Cook pasta according to package instructions. While pasta is cooking, combine basil, Parmesan cheese, olive oil, and garlic in a food processor and blend until smooth. Drain pasta and toss with pesto sauce. Serve immediately.",
         "ratings": 4.5,
-        "img": "https://i.ibb.co/F5MmgSb/food3.png"
+        "img": "https://img.freepik.com/free-photo/lifestyle-food-pasta-yummy-gourmet_1350-50.jpg?w=740&t=st=1684328255~exp=1684328855~hmac=a0c74be8aa59bf787186013ec99f3bbdf35358bd2582c7cc2df5051068e2d1eb"
       },
       {
         "recipeName": "Margherita Pizza",
@@ -295,7 +295,7 @@
       }
     ],
     "likes": 98,
-    "chefPicture": "https://images.unsplash.com/photo-1576237680582-75be01432ca6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "chefPicture": "https://img.freepik.com/free-photo/middle-aged-male-cook-chef-uniform-showing-clipboard-his-hand-yellow-wall_141793-36585.jpg?w=740&t=st=1684325334~exp=1684325934~hmac=1d162a1b8e24334e032c3a79104f0ba7c9cdaebfd2e8ee0056a86da5f2804f3c",
     "description": "Chef Frank is a classically trained chef with a passion for creating comforting, hearty dishes that are full of flavor. He draws inspiration from his Italian heritage and is known for his handmade pastas and slow-cooked stews."
   }
 ]
